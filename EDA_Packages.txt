@@ -1,0 +1,12 @@
+
+Environment: /Users/ms/DataScience/Project1/venv
+
+## Installed Packages:
+1. numpy          - Numerical computations
+2. pandas         - Data manipulation & analysis
+3. matplotlib     - Data visualization
+4. seaborn        - Statistical data visualization
+5. jupyterlab     - Interactive data exploration
+6. scipy          - Scientific computations
+7. statsmodels    - Statistical modeling
+8. scikit-learn   - Machine learning algorithms (optional)
